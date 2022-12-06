@@ -1,6 +1,7 @@
 void main(){
   
   int score =10;
+  int age;//if there is no value added it will give null as output
   var ok =12;
   
   double deci =1.2873;
@@ -27,6 +28,6 @@ print(deci);
   print(hexvalue);
   print(exponenets);
   print(kj);
-  
+  print(age);
   
 }
