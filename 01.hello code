@@ -1,0 +1,10 @@
+void main(){
+  
+  print("hello aditya");
+  print("this is my first code in dart");
+  print("we can print numbers here" );
+  print(6353);
+  print(false);
+  print(52-52);
+  
+}
