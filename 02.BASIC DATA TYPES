@@ -1,0 +1,32 @@
+void main(){
+  
+  int score =10;
+  var ok =12;
+  
+  double deci =1.2873;
+  var dhe=19.72;
+  
+  
+  String name ="aditya";
+  
+  var namme = "adityaraj";
+  
+  bool okk =false;
+  
+  var kj =true;
+  var hexvalue =0XEADEABEE;
+  var exponenets =1.23e4;
+  
+  print(score);
+  print(ok);
+print(deci);
+  print(dhe);
+  print(name);
+  print(namme);
+  print(okk);
+  print(hexvalue);
+  print(exponenets);
+  print(kj);
+  
+  
+}
