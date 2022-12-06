@@ -1,6 +1,9 @@
 void main(){
   
-  print("hello aditya");
+  print("hello aditya");// single line comment
+  /*
+  multi line comment
+  */
   print("this is my first code in dart");
   print("we can print numbers here" );
   print(6353);
